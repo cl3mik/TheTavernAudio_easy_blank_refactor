@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{8bcc3e1f-460f-4669-bfb9-633599ac83c2}">
+		<property name="assetPath">
+			<value>stone/stone_jump_on_04.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.37968750000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0c9da13f-2a44-4bf4-a9e4-7b26e08e27c3}</destination>
+		</relationship>
+	</object>
+</objects>

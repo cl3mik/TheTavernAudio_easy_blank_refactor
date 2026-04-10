@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{435b1706-a3ef-4b2a-b67a-206297c268ad}">
+		<property name="assetPath">
+			<value>door_open_2.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.4997916666666669</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0c9da13f-2a44-4bf4-a9e4-7b26e08e27c3}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{03dd43d3-787c-489c-af1b-4ce963123bf9}">
+		<property name="assetPath">
+			<value>żyrandol/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0c9da13f-2a44-4bf4-a9e4-7b26e08e27c3}</destination>
+		</relationship>
+	</object>
+</objects>
