@@ -2603,7 +2603,7 @@ MonoBehaviour:
       Data4: 0
     Path: 
   isGrounded: 1
-  isJumping: 0
+  isJumping: 1
 --- !u!1 &688602384
 GameObject:
   m_ObjectHideFlags: 0
